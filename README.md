@@ -6,7 +6,7 @@
 
 ## &#x1F44B; 大家好，我是LC-space  <a href="https://github.com/LC-space"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LC-space&show_icons=true&theme=tokyonight"/></a>
 
-&#x1F680; 我是一名航天专业学生，同时也是一名航天爱好者！
+&#x1F680; 我是一名航天专业学生，也是一名航天爱好者！
 
 &#x1F4BB; 我喜欢在空闲时间学习编程。
 
